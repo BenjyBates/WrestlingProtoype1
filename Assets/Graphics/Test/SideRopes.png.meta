@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 4015861b1d84f5a449de012a96c5a730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2636076305003523623
+    second: SideRopes_0
+  - first:
+      213: -3690358596676284667
+    second: SideRopes_1
+  - first:
+      213: 7201873304216506377
+    second: SideRopes_2
+  - first:
+      213: -6562404220271463202
+    second: SideRopes_3
+  - first:
+      213: -6546927098161275653
+    second: SideRopes_4
+  - first:
+      213: -5508706429784105825
+    second: SideRopes_5
+  - first:
+      213: 583370516591460474
+    second: SideRopes_6
+  - first:
+      213: 234450605493943062
+    second: SideRopes_7
+  - first:
+      213: 7270742942150399217
+    second: SideRopes_8
+  - first:
+      213: -3571947400170662982
+    second: SideRopes_9
+  - first:
+      213: -6903397532691239149
+    second: SideRopes_10
+  - first:
+      213: -1804972406080798893
+    second: SideRopes_11
+  - first:
+      213: 5046642459343065837
+    second: SideRopes_12
+  - first:
+      213: 6912673044419631938
+    second: SideRopes_13
+  - first:
+      213: 3101772492607165383
+    second: SideRopes_14
+  - first:
+      213: 2137494172584679183
+    second: SideRopes_15
+  - first:
+      213: 4742181697164432841
+    second: SideRopes_16
+  - first:
+      213: -3687057814048674912
+    second: SideRopes_17
+  - first:
+      213: -2863345370495208809
+    second: SideRopes_18
+  - first:
+      213: -4567445457931407729
+    second: SideRopes_19
+  - first:
+      213: -4104545019848719017
+    second: SideRopes_20
+  - first:
+      213: 7587652114583526920
+    second: SideRopes_21
+  - first:
+      213: -2071401655223608506
+    second: SideRopes_22
+  - first:
+      213: -6460624960815175001
+    second: SideRopes_23
+  - first:
+      213: -2507135522504536565
+    second: SideRopes_24
+  - first:
+      213: 1328278921216868703
+    second: SideRopes_25
+  - first:
+      213: 5169344162103295683
+    second: SideRopes_26
+  - first:
+      213: -3560172270962832037
+    second: SideRopes_27
+  - first:
+      213: 1174554708319041922
+    second: SideRopes_28
+  - first:
+      213: 7901268835070450377
+    second: SideRopes_29
+  - first:
+      213: -1564458625132128105
+    second: SideRopes_30
+  - first:
+      213: 5807304482386320095
+    second: SideRopes_31
+  - first:
+      213: -8534410002638964835
+    second: SideRopes_32
+  - first:
+      213: 4713222816950216397
+    second: SideRopes_33
+  - first:
+      213: 4910584631066530499
+    second: SideRopes_34
+  - first:
+      213: 3940994434219168876
+    second: SideRopes_35
+  - first:
+      213: 5449377493294549367
+    second: SideRopes_36
+  - first:
+      213: -3479191863696980704
+    second: SideRopes_37
+  - first:
+      213: -7975905436722081073
+    second: SideRopes_38
+  - first:
+      213: 8747118823110217930
+    second: SideRopes_39
+  - first:
+      213: -2888343735610211267
+    second: SideRopes_40
+  - first:
+      213: -7964861011426849156
+    second: SideRopes_41
+  - first:
+      213: 4494633160447556340
+    second: SideRopes_42
+  - first:
+      213: 2342179002925784306
+    second: SideRopes_43
+  - first:
+      213: 1440940176350055038
+    second: SideRopes_44
+  - first:
+      213: 4867903965046512493
+    second: SideRopes_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SideRopes_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2f80de69359420800000000000000
+      internalID: 2636076305003523623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0d4f986639ccc0800000000000000
+      internalID: -3690358596676284667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900913fec9132f360800000000000000
+      internalID: 7201873304216506377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f13a7128ade4a0800000000000000
+      internalID: -6562404220271463202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd7b7cd74a425a0800000000000000
+      internalID: -6546927098161275653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdec040b42d83b0800000000000000
+      internalID: -5508706429784105825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ceddd46c881800800000000000000
+      internalID: 583370516591460474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b77d1659fe04300800000000000000
+      internalID: 234450605493943062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49d001f2ed6e460800000000000000
+      internalID: 7270742942150399217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab39278b3c4ed6ec0800000000000000
+      internalID: -3571947400170662982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f61a015843230a0800000000000000
+      internalID: -6903397532691239149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ffb2ae82373f6e0800000000000000
+      internalID: -1804972406080798893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21c891496490640800000000000000
+      internalID: 5046642459343065837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideRopes_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdc0d428fbeef50800000000000000
+      internalID: 6912673044419631938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
